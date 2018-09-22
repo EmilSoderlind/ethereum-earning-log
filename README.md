@@ -1,4 +1,4 @@
-#Ethereum-earning-log
+# Ethereum-earning-log
 
 ## Why?
 Logging Ethereum-miner earning/24h in SEK to STDOUT
